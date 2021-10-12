@@ -1,3 +1,4 @@
 accpw.txt
 *.sage.py
 __pycache__
+*.zip
