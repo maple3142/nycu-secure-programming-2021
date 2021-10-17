@@ -12,7 +12,7 @@ k = int(md5(b'secret').hexdigest() + md5(long_to_bytes(prikey.secret_multiplier)
 
 $$
 \begin{aligned}
-s_1 (k_c + k_1) &\equiv h_1 + r_1 d \pmod{n} \\
+s_1 (k_c + k_1) &\equiv h_1 + r_1 d \pmod{n} \\\\
 s_2 (k_c + k_2) &\equiv h_2 + r_2 d \pmod{n}
 \end{aligned}
 $$
