@@ -1,0 +1,4 @@
+HTTP Status code for downloaded files: 200 Good, 404 Normal, 403 and 5XX Bad
+
+200: 23
+404: 17
