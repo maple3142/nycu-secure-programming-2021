@@ -1,0 +1,4 @@
+FLAG{PaRs1N6_PE_aNd_D11_1S_50_C00111!!!!!111}
+
+x64dbg 在大概 0x401796 的地方下 breakpoint，看是要把下面三個 `call rax` 改成 nop 或是 jump 到 0x4017dd 都可以，然後就可以看到 flag 了
+

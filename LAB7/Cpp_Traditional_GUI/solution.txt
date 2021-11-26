@@ -1,0 +1,5 @@
+Username: 亞洲統神
+Password: toyz2k7e.3
+
+FLAG{WIN32_GUI_SO_PAIN}
+

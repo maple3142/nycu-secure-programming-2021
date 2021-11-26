@@ -1,0 +1,3 @@
+run the executable and cat /tmp/baby_... to see the flag
+it is just xor of two string
+

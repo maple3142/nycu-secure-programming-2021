@@ -1,0 +1,4 @@
+./main3 a
+cat /tmp/drake_jsajicoj2m3f230cskdfoepkfws.flag
+FLAG{Drake_liking_something_and_pointing_at_it}
+

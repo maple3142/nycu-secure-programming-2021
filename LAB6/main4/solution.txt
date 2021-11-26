@@ -1,0 +1,4 @@
+run
+cat /tmp/drake_vmimef283jfemkfms.flag
+FLAG{Drake_liking_x32_and_int_0x80}
+
