@@ -72,3 +72,5 @@ void (__fastcall *__fastcall realmain(__int64 kbase))(__int64)
 這邊可以同時對照 PE-Bear 檢視 `kernel32.dll` 的畫面比較好理解，`kbase + 0x3C` 就是想去讀 PE header 的 offset，然後 `addr_pehdr + 0x88` 就是想取得 `Export Directory` 的位置。
 
 之後就從 export directory 上一個一個找有沒有叫 `sleep` 的函數，`v7` 是 `AddressOfNames`，而 `v8` 是 `AddressOfFunctions`。所以 `v4` 和 `v5` 顯然就是 `sleep` 函數，可以把它 patch 成 nop 或是跳到下面，不然就是把 `off_403020` 和 `unk_403040` 兩個地方的資料拿出來自己 xor 也可以。
+
+Flag: `FLAG{PaRs1N6_PE_aNd_D11_1S_50_C00111!!!!!111}`

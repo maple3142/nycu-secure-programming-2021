@@ -1,0 +1,4 @@
+easy sol: procmon will see it is trying to find `䱆䝁坻㍨彮潄渱彇灐彔䕓彈污慗獹扟彥䅰捴㍨彤潴卟䕈彟㵟㵟}ힲÈ.exe`
+encode it with UTF-16LE will give the flag
+FLAG{Wh3n_Do1nG_PpT_SEH_alWays_be_pAtch3d_to_SHE___=_=}
+

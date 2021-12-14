@@ -1,0 +1,5 @@
+password had been modified to `Yoasobi` in TLS callback
+run `.\HellWindows.exe Yoasobi` will write a flag file to somewhere in the filesystem
+you can find the path of the file using Procmon, C:\Users\$USER\AppData\Local\Temp\a_E207.tmp
+FLAG{WOW_YOU_F0UND_M3!!!!!!!!!!!!?!}
+
