@@ -73,7 +73,7 @@ binary 保護除了 relro 是 partial 以外都是全開的，所以 GOT table �
 
 > 在寫入 ROP chain 的時候有踩到一個坑是 `scanf` 會在空白或是換行字元的時候 truncate，所以寫入的 address 如果正好包含那些字元可能要重新 run 一遍，但是在寫 ROP chain 的時候就要改成選好 pivot 過去的 stack address 了，不然選 `00` 結尾的 address 寫到 `09` 的時候一定會炸
 
-詳見: `fullchain/solve.py`
+詳見 `fullchain/solve.py`
 
 # fullchain-nerf
 
@@ -83,4 +83,4 @@ binary 保護除了 relro 是 partial 以外都是全開的，所以 GOT table �
 
 用任意寫在 bss 寫入目標 path `/home/fullchain-nerf/flag` 之後可以構造 ORW 的 rop chain (一樣是和 Rop2win)，libc 裡面有一堆 gadget 能用。把 rop chain 寫到 bss 的另一塊 `newstack` 之後把 rbp 蓋成 `newstack - 8`，`ret` 蓋成任意的 `leave ; ret` 的位置，之後一樣用 overflow 把 `cnt` 改 `0` 之後就能脫離迴圈，然後 return 時 stack pivot 到 `newstack` 上，用 rop chain 去 orw 輸出 flag。
 
-詳見: `fullchain-nerf/solve.py`
+詳見 `fullchain-nerf/solve.py`
