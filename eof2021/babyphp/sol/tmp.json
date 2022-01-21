@@ -1,0 +1,505 @@
+{
+  "C": [
+    "convert.iconv.UTF8.ISO2022KR",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "A": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "X": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.ISO-IR-111.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "c": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "s": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16LE",
+    "convert.iconv.CP1256.UTF16",
+    "convert.iconv.MAC.UTF16LE",
+    "convert.iconv.ISO-IR-111.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "p": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.ISO-IR-111.UTF16",
+    "convert.iconv.MAC.UTF16LE",
+    "convert.iconv.L1.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "j": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16",
+    "convert.iconv.L5.UTF16LE",
+    "convert.iconv.ISO-IR-111.UTF8",
+    "convert.iconv.SJIS.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "8": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L6.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "i": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.852",
+    "convert.iconv.MAC.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "d": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.852.UTF8",
+    "convert.iconv.L2.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "1": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16",
+    "convert.iconv.L5.857",
+    "convert.iconv.851.UTF16",
+    "convert.iconv.ISO-IR-111.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "w": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.L1.UTF16",
+    "convert.iconv.MAC.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "v": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.852.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "P": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.852",
+    "convert.iconv.857.BIG5",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "T": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.UCS2.UTF8",
+    "convert.iconv.852.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "f": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.ISO-IR-111.UTF16",
+    "convert.iconv.L7.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "Q": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.UCS2.UTF8",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.iconv.L5.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "5": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16",
+    "convert.iconv.L5.UTF16",
+    "convert.iconv.L3.UTF8",
+    "convert.iconv.ISO-IR-111.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "n": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.852",
+    "convert.iconv.CP1256.UTF8",
+    "convert.iconv.L2.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "r": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16LE",
+    "convert.iconv.CP1256.UTF16",
+    "convert.iconv.CP1133.857",
+    "convert.iconv.L2.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "K": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.852.UTF16LE",
+    "convert.iconv.ISO-IR-111.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "6": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16",
+    "convert.iconv.L4.SHIFTJISX0213",
+    "convert.iconv.1046.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "k": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16",
+    "convert.iconv.L4.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "z": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.ISO2022KR",
+    "convert.iconv.UTF16LE.UTF8",
+    "convert.iconv.SHIFTJISX0213.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "R": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.852",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "B": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.UTF8",
+    "convert.iconv.1046.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "t": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.ISO2022KR",
+    "convert.iconv.UTF16LE.EUCTW",
+    "convert.iconv.SHIFTJISX0213.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "l": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.ISO-IR-111.UTF8",
+    "convert.iconv.BIG5.UTF8",
+    "convert.iconv.857.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "W": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.UCS2.UTF8",
+    "convert.iconv.851.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "O": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.UCS2.UTF8",
+    "convert.iconv.UTF16LE.UTF16",
+    "convert.iconv.L3.UTF16LE",
+    "convert.iconv.ISO-IR-111.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "e": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16",
+    "convert.iconv.UTF16LE.UTF8",
+    "convert.iconv.L2.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "G": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.ISO-IR-111.UTF16",
+    "convert.iconv.MAC.UTF16",
+    "convert.iconv.MAC.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "V": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.ISO-IR-111.UTF8",
+    "convert.iconv.L7.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "N": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L6.UTF8",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.iconv.L4.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "J": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.852",
+    "convert.iconv.857.CP1256",
+    "convert.iconv.L6.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "h": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.UCS2.UTF8",
+    "convert.iconv.CP1256.UTF8",
+    "convert.iconv.TCVN.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "7": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.UCS2.UTF8",
+    "convert.iconv.CP1256.UTF8",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "/": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.UTF8",
+    "convert.iconv.L2.UTF16LE",
+    "convert.iconv.MAC.UTF16",
+    "convert.iconv.ISO-IR-111.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "0": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "Z": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16LE",
+    "convert.iconv.CP1256.UTF16",
+    "convert.iconv.CP1133.UTF8",
+    "convert.iconv.L2.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "q": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.SHIFTJISX0213",
+    "convert.iconv.852.UTF8",
+    "convert.iconv.1046.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "u": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.UTF8",
+    "convert.iconv.UTF16.UTF8",
+    "convert.iconv.SHIFTJISX0213.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "F": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.CP1256.MAC",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "9": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.852.MAC",
+    "convert.iconv.852.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "4": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16",
+    "convert.iconv.L5.UTF16LE",
+    "convert.iconv.L6.UTF8",
+    "convert.iconv.ISO-IR-111.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "I": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.ISO2022KR",
+    "convert.iconv.UTF16LE.UTF8",
+    "convert.iconv.L1.UTF8",
+    "convert.iconv.857.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "L": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.UTF8",
+    "convert.iconv.MAC.UTF16LE",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "D": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.852.UTF16LE",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "g": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.852",
+    "convert.iconv.857.CP1256",
+    "convert.iconv.1046.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "H": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.UCS2.UTF8",
+    "convert.iconv.1046.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "+": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L2.UTF8",
+    "convert.iconv.1046.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "Y": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.ISO2022KR",
+    "convert.iconv.UTF16LE.UTF8",
+    "convert.iconv.ISO-IR-111.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "a": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.UTF8",
+    "convert.iconv.MAC.UTF8",
+    "convert.iconv.L7.UTF16LE",
+    "convert.iconv.1046.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "S": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.852.UTF8",
+    "convert.iconv.857.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "E": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L6.UTF8",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.iconv.857.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "2": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.ISO-IR-111.UTF16",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.iconv.CP1256.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "x": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.L6.UTF8",
+    "convert.iconv.SHIFTJISX0213.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "b": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.UTF8",
+    "convert.iconv.MAC.UTF16",
+    "convert.iconv.852.UTF16LE",
+    "convert.iconv.852.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "y": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.1046",
+    "convert.iconv.CP1256.MAC",
+    "convert.iconv.L2.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "U": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.UTF8",
+    "convert.iconv.L7.L4",
+    "convert.iconv.MAC.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "m": [
+    "convert.iconv.UTF8.UTF16LE",
+    "convert.iconv.CSISO2022KR.UTF16",
+    "convert.iconv.L5.857",
+    "convert.iconv.851.UTF16LE",
+    "convert.iconv.MAC.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "M": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.ISO-IR-111.UTF16",
+    "convert.iconv.MAC.852",
+    "convert.iconv.L6.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "o": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.ISO-IR-111.SHIFTJISX0213",
+    "convert.iconv.MAC.857",
+    "convert.iconv.BIG5.SHIFTJISX0213",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ],
+  "3": [
+    "convert.iconv.UTF8.UTF16",
+    "convert.iconv.851.UTF8",
+    "convert.iconv.L7.UTF8",
+    "convert.iconv.857.UTF16LE",
+    "convert.iconv.ISO-IR-111.UTF16LE",
+    "convert.base64-decode",
+    "convert.base64-encode"
+  ]
+}

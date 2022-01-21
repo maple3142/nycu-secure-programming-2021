@@ -1,0 +1,12 @@
+{
+    "name": "maple3142/phptest",
+    "require": {
+        "php-ds/php-ds": "^1.4"
+    },
+    "authors": [
+        {
+            "name": "maple3142",
+            "email": "kirby741852963@gmail.com"
+        }
+    ]
+}
